@@ -1,0 +1,6 @@
+interface:
+  display_name: "Farsi RTL"
+  short_description: "Readable RTL layout for mixed Persian and English"
+  default_prompt: "Use $farsi-rtl to format this answer for readable mixed Persian and English text."
+policy:
+  allow_implicit_invocation: false
