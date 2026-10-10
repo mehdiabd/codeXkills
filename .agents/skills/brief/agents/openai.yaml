@@ -1,0 +1,6 @@
+interface:
+  display_name: "Brief"
+  short_description: "Complete answers with concise, direct wording"
+  default_prompt: "Use $brief to answer this request concisely and completely."
+policy:
+  allow_implicit_invocation: false
